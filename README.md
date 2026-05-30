@@ -134,7 +134,7 @@ The compiled `.jar` will be in `/target`.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [`(https://github.com/Jdoggames4/Astra-Vale-SMP/blob/main/LICENSE)`](LICENSE) for details.
+This project is licensed under the Apache License 2.0. See [`(https://github.com/Jdoggames4/Astra-Vale-SMP/blob/main/LICENSE)`](LICENSE) for details.
 
 ---
 
