@@ -17,6 +17,8 @@ Five craftable weapons with game-changing abilities. Each requires rare, hard-to
 | **Phantom Dagger** | Grants **5 seconds of full invisibility** after a kill | Epic |
 | **Voidscythe** | **Teleports you behind** a target within 20 blocks | Rare |
 
+There is one of each weapon
+
 ---
 
 ### 💎 Amethyst Crystal System
