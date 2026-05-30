@@ -14,8 +14,8 @@ Five craftable weapons with game-changing abilities. Each requires rare, hard-to
 | **Blade of Exile** | Bans the player you kill for **2 hours** | Legendary |
 | **Soulthief Bow** | **Steals a heart** from killed players permanently | Legendary |
 | **Thundermace** | **Lunge skyward** and deal massive fall-damage on descent | Legendary |
-| **Phantom Dagger** | Grants **5 seconds of full invisibility** after a kill | Uncommon |
-| **Voidscythe** | **Teleports you behind** a target within 20 blocks | Uncommon |
+| **Phantom Dagger** | Grants **5 seconds of full invisibility** after a kill | Epic |
+| **Voidscythe** | **Teleports you behind** a target within 20 blocks | Rare |
 
 ---
 
