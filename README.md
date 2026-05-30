@@ -28,7 +28,7 @@ Every player receives a **random Amethyst Crystal** on first join. Crystals gran
 |---|---|---|
 | 🔥 **Ember** | Fire resistance | Explosion on kill |
 | ❄️ **Frost** | Slowness aura to nearby enemies | Freeze target for 1.5s |
-| ⚡ **Storm** | Speed I outdoors | Double jump + lightning strike on kill |
+| ⚡ **Storm** | Speed | Double jump + lightning strike on kill |
 | 🌑 **Void** | Hidden on tab-list | Phase through 1-block-thick walls |
 | 🌿 **Terra** | +2 max hearts | +6 max hearts + reduced fall damage |
 | 🛡️ **Veil** | 10% hit negate chance | 20% negate + crits deal normal damage |
